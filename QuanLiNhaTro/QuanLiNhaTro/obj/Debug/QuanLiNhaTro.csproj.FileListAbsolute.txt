@@ -1,0 +1,1249 @@
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.Cache
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DangNhap.resources
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_QuanLiNhaTro.resources
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DichVu.resources
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_TrangThietBi.resources
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_KhachHang.resources
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DangKyTaiKhoan.resources
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Admin.resources
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.dll
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.xml
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojResolveAssemblyReference.cache
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Phong.resources
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HoaDon.resources
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HopDong.resources
+D:\Study\CN.Net\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Form1.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Admin.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DangNhap.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DichVu.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HoaDon.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HopDong.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_KhachHang.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Phong.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_QuanLiNhaTro.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_TrangThietBi.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ThemThietBi.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_LoaiPhong.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ShowReportHopDong.resources
+C:\Users\LENOVO\Desktop\QuanLiNhaTro\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ShowReportHD.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\stdole.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.xml
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojAssemblyReference.cache
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Admin.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DangNhap.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DichVu.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HoaDon.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HopDong.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_KhachHang.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_LoaiPhong.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Phong.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_QuanLiNhaTro.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ShowReportHD.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ShowReportHopDong.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ThemThietBi.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_TrangThietBi.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.cache
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CopyComplete
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Buffers.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.xml
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.xml
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.xml
+C:\Users\AD\Desktop\CSDL NoSQL\DA_CNN_NHOM_35\SOURCE\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Buffers.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\stdole.dll
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.xml
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.xml
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.xml
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.xml
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojAssemblyReference.cache
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Admin.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DangNhap.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DichVu.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HoaDon.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HopDong.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_KhachHang.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_LoaiPhong.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Phong.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_QuanLiNhaTro.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ThemThietBi.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_TrangThietBi.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.cache
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CopyComplete
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+C:\Users\Rabbit\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.Shared.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Data.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Office.v19.2.Core.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\FlashControlV71.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Buffers.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Images.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraBars.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Xpo.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.CodeParser.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ShockwaveFlashObjects.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\stdole.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Data.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Office.v19.2.Core.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraBars.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Xpo.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojAssemblyReference.cache
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Admin.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DangNhap.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DichVu.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HoaDon.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HopDong.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_KhachHang.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_LoaiPhong.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Phong.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_QuanLiNhaTro.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ThemThietBi.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_TrangThietBi.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.cache
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe.licenses
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CopyComplete
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.ReportHoaDon.resources
+G:\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.ShowReportHoaDon.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Buffers.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Images.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ShockwaveFlashObjects.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\stdole.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Data.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojAssemblyReference.cache
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Admin.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DangNhap.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DichVu.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HoaDon.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HopDong.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_KhachHang.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_LoaiPhong.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Phong.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_QuanLiNhaTro.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ThemThietBi.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_TrangThietBi.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.ReportHoaDon.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.ShowReportHoaDon.resources
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.cache
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe.licenses
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CopyComplete
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Data.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+E:\KH2-NAM3\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Buffers.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\stdole.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojAssemblyReference.cache
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Admin.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DangNhap.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DichVu.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HoaDon.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HopDong.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_KhachHang.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_LoaiPhong.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Phong.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_QuanLiNhaTro.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ThemThietBi.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_TrangThietBi.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.ReportHoaDon.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.ShowReportHoaDon.resources
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.cache
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe.licenses
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CopyComplete
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+C:\Users\AD\Desktop\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Buffers.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\stdole.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojAssemblyReference.cache
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Admin.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DangNhap.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DichVu.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HoaDon.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HopDong.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_KhachHang.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_LoaiPhong.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Phong.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_QuanLiNhaTro.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ThemThietBi.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_TrangThietBi.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.ReportHoaDon.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.ShowReportHoaDon.resources
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.cache
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe.licenses
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CopyComplete
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+C:\Users\AD\Desktop\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.UI.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Buffers.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\stdole.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.UI.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DnsClient.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\EntityFramework.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Bson.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojAssemblyReference.cache
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Admin.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DangNhap.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_DichVu.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HoaDon.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_HopDong.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_KhachHang.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_LoaiPhong.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_Phong.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_QuanLiNhaTro.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_ThemThietBi.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.frm_TrangThietBi.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.ReportHoaDon.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.ShowReportHoaDon.resources
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.cache
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe.licenses
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CoreCompileInputs.cache
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CopyComplete
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+C:\Users\AD\Desktop\Giáo Trình\CSDL NoSQL\dat\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "5f22adb6d8a5aa0f7072e012"
+  },
+  "MaHoaDon": "HD1",
+  "ThanhTien": 3600000,
+  "NgayLapHD": "30/07/2020",
+  "ThueVAT": 0.1,
+  "TongTien": 3960000,
+  "MaPH": "P101"
+},{
+  "_id": {
+    "$oid": "5f22b90cd8a5aa308c1b83df"
+  },
+  "MaHoaDon": "HD2",
+  "ThanhTien": 2900000,
+  "NgayLapHD": "30/07/2020",
+  "ThueVAT": 0.1,
+  "TongTien": 3190000,
+  "MaPH": "P102"
+}]

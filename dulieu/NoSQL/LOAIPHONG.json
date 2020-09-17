@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5f019e45f1fcc10a6c364c50"
+  },
+  "MaLoaiPH": "LP01",
+  "TenLoaiPH": "Phòng nhỏ",
+  "KichThuoc": "25m2",
+  "DonGia": 2500000,
+  "SoNguoiTD": 3
+},{
+  "_id": {
+    "$oid": "5f019e45f1fcc10a6c364c51"
+  },
+  "MaLoaiPH": "LP02",
+  "TenLoaiPH": "Phòng lớn",
+  "KichThuoc": "30m2",
+  "DonGia": 3000000,
+  "SoNguoiTD": 5
+}]

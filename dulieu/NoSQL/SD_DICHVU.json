@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "5f22ad3bd8a5aa0f7072e00d"
+  },
+  "MaSD": "SD01",
+  "MaPH": "P101",
+  "ThoiGian": "30/07/2020",
+  "SoLuong": 0,
+  "SoCu": 0,
+  "SoMoi": 50,
+  "ThanhTien": 150000,
+  "MaLoaiDV": "L01"
+},{
+  "_id": {
+    "$oid": "5f22ad55d8a5aa0f7072e00e"
+  },
+  "MaSD": "SD02",
+  "MaPH": "P101",
+  "ThoiGian": "30/07/2020",
+  "SoLuong": 0,
+  "SoCu": 0,
+  "SoMoi": 0,
+  "ThanhTien": 70000,
+  "MaLoaiDV": "L02"
+},{
+  "_id": {
+    "$oid": "5f22ad75d8a5aa0f7072e00f"
+  },
+  "MaSD": "SD03",
+  "MaPH": "P101",
+  "ThoiGian": "30/07/2020",
+  "SoLuong": 2,
+  "SoCu": 0,
+  "SoMoi": 0,
+  "ThanhTien": 200000,
+  "MaLoaiDV": "L03"
+},{
+  "_id": {
+    "$oid": "5f22ad8ad8a5aa0f7072e010"
+  },
+  "MaSD": "SD04",
+  "MaPH": "P101",
+  "ThoiGian": "30/07/2020",
+  "SoLuong": 0,
+  "SoCu": 0,
+  "SoMoi": 30,
+  "ThanhTien": 150000,
+  "MaLoaiDV": "L04"
+},{
+  "_id": {
+    "$oid": "5f22ad93d8a5aa0f7072e011"
+  },
+  "MaSD": "SD05",
+  "MaPH": "P101",
+  "ThoiGian": "30/07/2020",
+  "SoLuong": 0,
+  "SoCu": 0,
+  "SoMoi": 0,
+  "ThanhTien": 30000,
+  "MaLoaiDV": "L05"
+},{
+  "_id": {
+    "$oid": "5f22b8e5d8a5aa308c1b83dd"
+  },
+  "MaSD": "SD06",
+  "MaPH": "P102",
+  "ThoiGian": "30/07/2020",
+  "SoLuong": 0,
+  "SoCu": 0,
+  "SoMoi": 50,
+  "ThanhTien": 150000,
+  "MaLoaiDV": "L01"
+},{
+  "_id": {
+    "$oid": "5f22b8f6d8a5aa308c1b83de"
+  },
+  "MaSD": "SD07",
+  "MaPH": "P102",
+  "ThoiGian": "30/07/2020",
+  "SoLuong": 0,
+  "SoCu": 0,
+  "SoMoi": 50,
+  "ThanhTien": 250000,
+  "MaLoaiDV": "L04"
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "5f019e32f1fcc10a6c364c4b"
+  },
+  "MaLoaiDV": "L01",
+  "TenLoaiDV": "Điện",
+  "DonGia": 3000
+},{
+  "_id": {
+    "$oid": "5f019e32f1fcc10a6c364c4c"
+  },
+  "MaLoaiDV": "L02",
+  "TenLoaiDV": "Internet",
+  "DonGia": 70000
+},{
+  "_id": {
+    "$oid": "5f019e32f1fcc10a6c364c4d"
+  },
+  "MaLoaiDV": "L03",
+  "TenLoaiDV": "Giữ xe",
+  "DonGia": 100000
+},{
+  "_id": {
+    "$oid": "5f019e32f1fcc10a6c364c4e"
+  },
+  "MaLoaiDV": "L04",
+  "TenLoaiDV": "Nước",
+  "DonGia": 5000
+},{
+  "_id": {
+    "$oid": "5f019e32f1fcc10a6c364c4f"
+  },
+  "MaLoaiDV": "L05",
+  "TenLoaiDV": "Rác",
+  "DonGia": 30000
+}]

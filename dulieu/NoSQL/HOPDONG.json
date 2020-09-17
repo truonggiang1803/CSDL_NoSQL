@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "5f228aa6d8a5aa421486c8ae"
+  },
+  "MaHD": "HD01",
+  "MaKH": "KH01",
+  "MaPH": "P101",
+  "NgayLapHD": "17/07/2020",
+  "NgayBD": "17/07/2020",
+  "NgayKT": "17/07/2020",
+  "TienCoc": "500000"
+},{
+  "_id": {
+    "$oid": "5f22b7f9d8a5aa308c1b83dc"
+  },
+  "MaHD": "HD02",
+  "MaKH": "KH02",
+  "MaPH": "P102",
+  "NgayLapHD": "30/07/2020",
+  "NgayBD": "17/07/2020",
+  "NgayKT": "17/07/2020",
+  "TienCoc": 10000
+}]

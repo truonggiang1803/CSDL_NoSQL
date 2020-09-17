@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "5f019b80f1fcc10a6c364bd3"
+  },
+  "MaAD": "AD01",
+  "HoTen": "Trần Thanh Cảnh",
+  "TenDN": "canh64",
+  "MatKhau": "canh123",
+  "GioiTinh": "Nữ",
+  "NgaySinh": {
+    "$date": "1999-04-06T00:00:00Z"
+  },
+  "SDT": "0329564744",
+  "Email": "thanhcanhtran64@gmail.com",
+  "MaQ": "1"
+},{
+  "_id": {
+    "$oid": "5f019b80f1fcc10a6c364bd4"
+  },
+  "MaAD": "AD02",
+  "HoTen": "Nguyễn Thành Đạt",
+  "TenDN": "dat21",
+  "MatKhau": "dat123",
+  "GioiTinh": "Nam",
+  "NgaySinh": {
+    "$date": "1999-06-21T00:00:00Z"
+  },
+  "SDT": "0329564744",
+  "Email": "nguyenthanhdat21061999@gmail.com",
+  "MaQ": "2"
+},{
+  "_id": {
+    "$oid": "5f019b80f1fcc10a6c364bd5"
+  },
+  "MaAD": "AD03",
+  "HoTen": "Phạm Nguyễn Tuệ Mẫn",
+  "TenDN": "man31",
+  "MatKhau": "man123",
+  "GioiTinh": "Nữ",
+  "NgaySinh": {
+    "$date": "1999-12-31T00:00:00Z"
+  },
+  "SDT": "0397835202",
+  "Email": "tuephamman@gmail.com",
+  "MaQ": "2"
+},{
+  "_id": {
+    "$oid": "5f019b80f1fcc10a6c364bd6"
+  },
+  "MaAD": "AD04",
+  "HoTen": "Trần Thanh Cảnh",
+  "TenDN": "canh",
+  "MatKhau": "canh123",
+  "GioiTinh": "Nữ",
+  "NgaySinh": {
+    "$date": "1999-04-06T00:00:00Z"
+  },
+  "SDT": "0329564744",
+  "Email": "thanhcanhtran64@gmail.com",
+  "MaQ": "1"
+}]

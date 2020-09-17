@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cbc"
+  },
+  "MaPH": "P101",
+  "MaTB": "TB01"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cbd"
+  },
+  "MaPH": "P103",
+  "MaTB": "TB03"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cbe"
+  },
+  "MaPH": "P105",
+  "MaTB": "TB01"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cbf"
+  },
+  "MaPH": "P201",
+  "MaTB": "TB01"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cc0"
+  },
+  "MaPH": "P201",
+  "MaTB": "TB02"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cc1"
+  },
+  "MaPH": "P201",
+  "MaTB": "TB03"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cc2"
+  },
+  "MaPH": "P203",
+  "MaTB": "TB02"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cc3"
+  },
+  "MaPH": "P204",
+  "MaTB": "TB01"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cc4"
+  },
+  "MaPH": "P205",
+  "MaTB": "TB02"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cc5"
+  },
+  "MaPH": "P206",
+  "MaTB": "TB01"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cc6"
+  },
+  "MaPH": "P206",
+  "MaTB": "TB02"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cc7"
+  },
+  "MaPH": "P206",
+  "MaTB": "TB03"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cc8"
+  },
+  "MaPH": "P206",
+  "MaTB": "TB04"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cc9"
+  },
+  "MaPH": "P208",
+  "MaTB": "TB01"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cca"
+  },
+  "MaPH": "P208",
+  "MaTB": "TB02"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364ccb"
+  },
+  "MaPH": "P208",
+  "MaTB": "TB03"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364ccc"
+  },
+  "MaPH": "P208",
+  "MaTB": "TB04"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364ccd"
+  },
+  "MaPH": "P303",
+  "MaTB": "TB01"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cce"
+  },
+  "MaPH": "P303",
+  "MaTB": "TB02"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364ccf"
+  },
+  "MaPH": "P303",
+  "MaTB": "TB03"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cd0"
+  },
+  "MaPH": "P303",
+  "MaTB": "TB04"
+},{
+  "_id": {
+    "$oid": "5f01a026f1fcc10a6c364cd1"
+  },
+  "MaPH": "P306",
+  "MaTB": "TB02"
+}]

@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c52"
+  },
+  "MaPH": "P101",
+  "SoLuong": 3,
+  "MaLoaiPH": "LP02"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c53"
+  },
+  "MaPH": "P102",
+  "SoLuong": 3,
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c54"
+  },
+  "MaPH": "P103",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c55"
+  },
+  "MaPH": "P104",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c56"
+  },
+  "MaPH": "P105",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP02"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c57"
+  },
+  "MaPH": "P106",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP02"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c58"
+  },
+  "MaPH": "P107",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c59"
+  },
+  "MaPH": "P108",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP02"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c5a"
+  },
+  "MaPH": "P201",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c5b"
+  },
+  "MaPH": "P202",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP02"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c5c"
+  },
+  "MaPH": "P203",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c5d"
+  },
+  "MaPH": "P204",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c5e"
+  },
+  "MaPH": "P205",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c5f"
+  },
+  "MaPH": "P206",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP02"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c60"
+  },
+  "MaPH": "P207",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c61"
+  },
+  "MaPH": "P208",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP02"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c62"
+  },
+  "MaPH": "P301",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP02"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c63"
+  },
+  "MaPH": "P302",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c64"
+  },
+  "MaPH": "P303",
+  "SoLuong": "0",
+  "MaLoaiPH": "LP02"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c65"
+  },
+  "MaPH": "P304",
+  "SoLuong": 0,
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c66"
+  },
+  "MaPH": "P305",
+  "SoLuong": 0,
+  "MaLoaiPH": "LP01"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c67"
+  },
+  "MaPH": "P306",
+  "SoLuong": 0,
+  "MaLoaiPH": "LP02"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c68"
+  },
+  "MaPH": "P307",
+  "SoLuong": 0,
+  "MaLoaiPH": "LP02"
+},{
+  "_id": {
+    "$oid": "5f019e6cf1fcc10a6c364c69"
+  },
+  "MaPH": "P308",
+  "SoLuong": 0,
+  "MaLoaiPH": "LP02"
+}]

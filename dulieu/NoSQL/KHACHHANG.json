@@ -1,0 +1,828 @@
+[{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c0d"
+  },
+  "MaKH": "KH01",
+  "TenKH": "Nguyễn Thị Yến Nhi",
+  "NgaySinh": {
+    "$date": "1999-03-16T00:00:00Z"
+  },
+  "CMND": "321736414",
+  "QueQuan": "Bến Tre",
+  "GioiTinh": "Nữ",
+  "SDT": "0397930211",
+  "MaPH": "P101"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c0e"
+  },
+  "MaKH": "KH02",
+  "TenKH": "Nguyễn Thị Thúy Lam",
+  "NgaySinh": {
+    "$date": "1999-07-21T00:00:00Z"
+  },
+  "CMND": "321736613",
+  "QueQuan": "Bến Tre",
+  "GioiTinh": "Nữ",
+  "SDT": "09782349113",
+  "MaPH": "P101"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c0f"
+  },
+  "MaKH": "KH03",
+  "TenKH": "Phạm Nguyễn Tuệ Mẫn",
+  "NgaySinh": {
+    "$date": "1999-12-31T00:00:00Z"
+  },
+  "CMND": "321736411",
+  "QueQuan": "Bến Tre",
+  "GioiTinh": "Nữ",
+  "SDT": "0397835202",
+  "MaPH": "P101"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c10"
+  },
+  "MaKH": "KH04",
+  "TenKH": "Trần Thanh Cảnh",
+  "NgaySinh": {
+    "$date": "1999-04-06T00:00:00Z"
+  },
+  "CMND": "255117003",
+  "QueQuan": "Bình Thuận",
+  "GioiTinh": "Nữ",
+  "SDT": "0911883321",
+  "MaPH": "P102"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c11"
+  },
+  "MaKH": "KH05",
+  "TenKH": "Nguyễn Thành Đạt",
+  "NgaySinh": {
+    "$date": "1999-06-21T00:00:00Z"
+  },
+  "CMND": "255117004",
+  "QueQuan": "Bình Định",
+  "GioiTinh": "Nam",
+  "SDT": "0397825288",
+  "MaPH": "P102"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c12"
+  },
+  "MaKH": "KH06",
+  "TenKH": "Hoàng Thái Thanh Nhàn",
+  "NgaySinh": {
+    "$date": "1999-09-21T00:00:00Z"
+  },
+  "CMND": "321112341",
+  "QueQuan": "Bến Tre",
+  "GioiTinh": "Nữ",
+  "SDT": "0888877220",
+  "MaPH": "P102"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c13"
+  },
+  "MaKH": "KH07",
+  "TenKH": "Phạm Quang Huy",
+  "NgaySinh": {
+    "$date": "1999-07-04T00:00:00Z"
+  },
+  "CMND": "321115843",
+  "QueQuan": "Vũng Tàu",
+  "GioiTinh": "Nam",
+  "SDT": "0888192344",
+  "MaPH": "P103"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c14"
+  },
+  "MaKH": "KH08",
+  "TenKH": "Nguyễn Trường Giang",
+  "NgaySinh": {
+    "$date": "1999-03-18T00:00:00Z"
+  },
+  "CMND": "321736414",
+  "QueQuan": "Dak Nông",
+  "GioiTinh": "Nam",
+  "SDT": "0937937210",
+  "MaPH": "P103"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c15"
+  },
+  "MaKH": "KH09",
+  "TenKH": "Nguyễn Thị Mỹ Hạnh",
+  "NgaySinh": {
+    "$date": "1999-09-09T00:00:00Z"
+  },
+  "CMND": "321736812",
+  "QueQuan": "Bến Tre",
+  "GioiTinh": "Nữ",
+  "SDT": "0839019301",
+  "MaPH": "P103"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c16"
+  },
+  "MaKH": "KH10",
+  "TenKH": "Thị Bô Pha",
+  "NgaySinh": {
+    "$date": "1999-08-08T00:00:00Z"
+  },
+  "CMND": "321736985",
+  "QueQuan": "Tây Ninh",
+  "GioiTinh": "Nữ",
+  "SDT": "0839183758",
+  "MaPH": "P104"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c17"
+  },
+  "MaKH": "KH11",
+  "TenKH": "Lâm Hà Du Uyên",
+  "NgaySinh": {
+    "$date": "1999-10-03T00:00:00Z"
+  },
+  "CMND": "321737912",
+  "QueQuan": "Nha Trang",
+  "GioiTinh": "Nữ",
+  "SDT": "0819520757",
+  "MaPH": "P104"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c18"
+  },
+  "MaKH": "KH12",
+  "TenKH": "Bùi Thị Bích Ngọc",
+  "NgaySinh": {
+    "$date": "1999-12-26T00:00:00Z"
+  },
+  "CMND": "321736412",
+  "QueQuan": "Bến Tre",
+  "GioiTinh": "Nữ",
+  "SDT": "0815782843",
+  "MaPH": "P104"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c19"
+  },
+  "MaKH": "KH13",
+  "TenKH": "Nguyễn Thị Hồng Hà",
+  "NgaySinh": {
+    "$date": "1997-02-16T00:00:00Z"
+  },
+  "CMND": "321712384",
+  "QueQuan": "Đồng Tháp",
+  "GioiTinh": "Nữ",
+  "SDT": "0384805571",
+  "MaPH": "P105"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c1a"
+  },
+  "MaKH": "KH14",
+  "TenKH": "Cao Duy Triều",
+  "NgaySinh": {
+    "$date": "1998-02-02T00:00:00Z"
+  },
+  "CMND": "255736754",
+  "QueQuan": "Quảng Trị",
+  "GioiTinh": "Nam",
+  "SDT": "0364449725",
+  "MaPH": "P105"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c1b"
+  },
+  "MaKH": "KH15",
+  "TenKH": "Hồ Văn Phúc",
+  "NgaySinh": {
+    "$date": "1998-06-20T00:00:00Z"
+  },
+  "CMND": "318736414",
+  "QueQuan": "Cà Mau",
+  "GioiTinh": "Nam",
+  "SDT": "0387101485",
+  "MaPH": "P105"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c1c"
+  },
+  "MaKH": "KH16",
+  "TenKH": "Nguyễn Đức Khiêm",
+  "NgaySinh": {
+    "$date": "1998-09-11T00:00:00Z"
+  },
+  "CMND": "321736123",
+  "QueQuan": "An Giang",
+  "GioiTinh": "Nam",
+  "SDT": "0392169114",
+  "MaPH": "P106"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c1d"
+  },
+  "MaKH": "KH17",
+  "TenKH": "Nguyễn Văn Hiếu",
+  "NgaySinh": {
+    "$date": "1997-03-16T00:00:00Z"
+  },
+  "CMND": "583104821",
+  "QueQuan": "Bến Tre",
+  "GioiTinh": "Nam",
+  "SDT": "0368504385",
+  "MaPH": "P106"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c1e"
+  },
+  "MaKH": "KH18",
+  "TenKH": "Nguyễn Thị Minh Châu",
+  "NgaySinh": {
+    "$date": "1982-05-01T00:00:00Z"
+  },
+  "CMND": "221736485",
+  "QueQuan": "Kiên Giang",
+  "GioiTinh": "Nữ",
+  "SDT": "0764436037",
+  "MaPH": "P106"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c1f"
+  },
+  "MaKH": "KH19",
+  "TenKH": "Lê Quang Kiên",
+  "NgaySinh": {
+    "$date": "1980-08-11T00:00:00Z"
+  },
+  "CMND": "221936855",
+  "QueQuan": "Kiên Giang",
+  "GioiTinh": "Nam",
+  "SDT": "0764064051",
+  "MaPH": "P107"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c20"
+  },
+  "MaKH": "KH20",
+  "TenKH": "Lê Quang Nghĩa",
+  "NgaySinh": {
+    "$date": "2004-01-18T00:00:00Z"
+  },
+  "CMND": "421736169",
+  "QueQuan": "Kiên Giang",
+  "GioiTinh": "Nam",
+  "SDT": "0763472880",
+  "MaPH": "P107"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c21"
+  },
+  "MaKH": "KH21",
+  "TenKH": "Ngô Ngọc Hân",
+  "NgaySinh": {
+    "$date": "1993-10-30T00:00:00Z"
+  },
+  "CMND": "231776488",
+  "QueQuan": "Vĩnh Long",
+  "GioiTinh": "Nữ",
+  "SDT": "0815215121",
+  "MaPH": "P107"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c22"
+  },
+  "MaKH": "KH22",
+  "TenKH": "Nguyễn Văn Quyết",
+  "NgaySinh": {
+    "$date": "1992-10-12T00:00:00Z"
+  },
+  "CMND": "331945628",
+  "QueQuan": "Long An",
+  "GioiTinh": "Nam",
+  "SDT": "0818175547",
+  "MaPH": "P108"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c23"
+  },
+  "MaKH": "KH23",
+  "TenKH": "Ngô Ngọc Ngân",
+  "NgaySinh": {
+    "$date": "1995-10-31T00:00:00Z"
+  },
+  "CMND": "231776488",
+  "QueQuan": "Vĩnh Long",
+  "GioiTinh": "Nữ",
+  "SDT": "0818948723",
+  "MaPH": "P108"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c24"
+  },
+  "MaKH": "KH24",
+  "TenKH": "Trần Quế Trân",
+  "NgaySinh": {
+    "$date": "2001-05-24T00:00:00Z"
+  },
+  "CMND": "261726848",
+  "QueQuan": "Cần Thơ",
+  "GioiTinh": "Nữ",
+  "SDT": "08194423261",
+  "MaPH": "P108"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c25"
+  },
+  "MaKH": "KH25",
+  "TenKH": "Trần Anh Khoa",
+  "NgaySinh": {
+    "$date": "2000-10-22T00:00:00Z"
+  },
+  "CMND": "21958374",
+  "QueQuan": "Cần Thơ",
+  "GioiTinh": "Nam",
+  "SDT": "0563784461",
+  "MaPH": "P201"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c26"
+  },
+  "MaKH": "KH26",
+  "TenKH": "Trịnh Quang Đại",
+  "NgaySinh": {
+    "$date": "1995-01-01T00:00:00Z"
+  },
+  "CMND": "235866470",
+  "QueQuan": "Đà Nẵng",
+  "GioiTinh": "Nam",
+  "SDT": "0563327426",
+  "MaPH": "P201"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c27"
+  },
+  "MaKH": "KH27",
+  "TenKH": "Trịnh Huyền Trang",
+  "NgaySinh": {
+    "$date": "1996-10-10T00:00:00Z"
+  },
+  "CMND": "25835281",
+  "QueQuan": "Đà Nẵng",
+  "GioiTinh": "Nữ",
+  "SDT": "0563781213",
+  "MaPH": "P201"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c28"
+  },
+  "MaKH": "KH28",
+  "TenKH": "Hà Thị Tâm",
+  "NgaySinh": {
+    "$date": {
+      "$numberLong": "-307670400000"
+    }
+  },
+  "CMND": "139276400",
+  "QueQuan": "Hải Phòng",
+  "GioiTinh": "Nữ",
+  "SDT": "0383649157",
+  "MaPH": "P202"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c29"
+  },
+  "MaKH": "KH29",
+  "TenKH": "Hứa Tôn Nghị",
+  "NgaySinh": {
+    "$date": "1992-02-11T00:00:00Z"
+  },
+  "CMND": "231776433",
+  "QueQuan": "Bình Phước",
+  "GioiTinh": "Nam",
+  "SDT": "0386415108",
+  "MaPH": "P202"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c2a"
+  },
+  "MaKH": "KH30",
+  "TenKH": "Huỳnh Lý Thu",
+  "NgaySinh": {
+    "$date": "1992-12-04T00:00:00Z"
+  },
+  "CMND": "236927480",
+  "QueQuan": "Bình Dương",
+  "GioiTinh": "Nữ",
+  "SDT": "092318437",
+  "MaPH": "P202"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c2b"
+  },
+  "MaKH": "KH31",
+  "TenKH": "Phan Hy Mỹ",
+  "NgaySinh": {
+    "$date": "1997-04-18T00:00:00Z"
+  },
+  "CMND": "296837194",
+  "QueQuan": "Quảng Nam",
+  "GioiTinh": "Nữ",
+  "SDT": "0934563090",
+  "MaPH": "P203"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c2c"
+  },
+  "MaKH": "KH32",
+  "TenKH": "Lâm Nhật Hào",
+  "NgaySinh": {
+    "$date": "1993-02-28T00:00:00Z"
+  },
+  "CMND": "231774829",
+  "QueQuan": "Bình Phước",
+  "GioiTinh": "Nam",
+  "SDT": "0397715345",
+  "MaPH": "P203"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c2d"
+  },
+  "MaKH": "KH33",
+  "TenKH": "Nguyễn Trường Duy",
+  "NgaySinh": {
+    "$date": "1990-02-19T00:00:00Z"
+  },
+  "CMND": "231676493",
+  "QueQuan": "Quảng Ngãi",
+  "GioiTinh": "Nam",
+  "SDT": "0927981675",
+  "MaPH": "P203"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c2e"
+  },
+  "MaKH": "KH34",
+  "TenKH": "Nguyễn Trường Nhật",
+  "NgaySinh": {
+    "$date": "1990-02-19T00:00:00Z"
+  },
+  "CMND": "231776433",
+  "QueQuan": "Quảng Ngãi",
+  "GioiTinh": "Nam",
+  "SDT": "0397935113",
+  "MaPH": "P204"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c2f"
+  },
+  "MaKH": "KH35",
+  "TenKH": "Trương Thị Thúy Kiều",
+  "NgaySinh": {
+    "$date": "1996-11-11T00:00:00Z"
+  },
+  "CMND": "231774567",
+  "QueQuan": "Đồng Nai",
+  "GioiTinh": "Nữ",
+  "SDT": "0907098245",
+  "MaPH": "P204"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c30"
+  },
+  "MaKH": "KH36",
+  "TenKH": "Trần Ngọc Huỳnh Giao",
+  "NgaySinh": {
+    "$date": "1995-03-26T00:00:00Z"
+  },
+  "CMND": "231738573",
+  "QueQuan": "Tiền Giang",
+  "GioiTinh": "Nữ",
+  "SDT": "082387414",
+  "MaPH": "P204"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c31"
+  },
+  "MaKH": "KH37",
+  "TenKH": "Thái Văn Tuyền",
+  "NgaySinh": {
+    "$date": "1990-06-09T00:00:00Z"
+  },
+  "CMND": "219583729",
+  "QueQuan": "Kiên Giang",
+  "GioiTinh": "Nam",
+  "SDT": "0937680119",
+  "MaPH": "P205"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c32"
+  },
+  "MaKH": "KH38",
+  "TenKH": "Lâm Đinh Huyên",
+  "NgaySinh": {
+    "$date": "1995-06-01T00:00:00Z"
+  },
+  "CMND": "219583666",
+  "QueQuan": "Đồng Tháp",
+  "GioiTinh": "Nam",
+  "SDT": "0182343176",
+  "MaPH": "P205"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c33"
+  },
+  "MaKH": "KH39",
+  "TenKH": "Phạm Thu Hà",
+  "NgaySinh": {
+    "$date": "1998-07-21T00:00:00Z"
+  },
+  "CMND": "219548586",
+  "QueQuan": "Hà Nội",
+  "GioiTinh": "Nữ",
+  "SDT": "0917181234",
+  "MaPH": "P205"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c34"
+  },
+  "MaKH": "KH40",
+  "TenKH": "Nguyễn Văn Nam",
+  "NgaySinh": {
+    "$date": "1999-10-02T00:00:00Z"
+  },
+  "CMND": "219581245",
+  "QueQuan": "Đồng Nai ",
+  "GioiTinh": "Nam",
+  "SDT": "0392122357",
+  "MaPH": "P206"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c35"
+  },
+  "MaKH": "KH41",
+  "TenKH": "Nguyễn Văn Tài",
+  "NgaySinh": {
+    "$date": "1995-06-20T00:00:00Z"
+  },
+  "CMND": "219581287",
+  "QueQuan": "Tây Ninh",
+  "GioiTinh": "Nam",
+  "SDT": "0787345681",
+  "MaPH": "P206"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c36"
+  },
+  "MaKH": "KH42",
+  "TenKH": "Trần Trúc Vy",
+  "NgaySinh": {
+    "$date": "1998-02-10T00:00:00Z"
+  },
+  "CMND": "123558443",
+  "QueQuan": "Tây Ninh",
+  "GioiTinh": "Nữ",
+  "SDT": "0365711238",
+  "MaPH": "P206"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c37"
+  },
+  "MaKH": "KH43",
+  "TenKH": "Hoàng Nhật Trà",
+  "NgaySinh": {
+    "$date": "1997-10-31T00:00:00Z"
+  },
+  "CMND": "219691738",
+  "QueQuan": "Tây Ninh",
+  "GioiTinh": "Nữ",
+  "SDT": "0927943195",
+  "MaPH": "P207"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c38"
+  },
+  "MaKH": "KH44",
+  "TenKH": "Phan Tố Hà",
+  "NgaySinh": {
+    "$date": "2000-01-01T00:00:00Z"
+  },
+  "CMND": "219583983",
+  "QueQuan": "Đồng Tháp",
+  "GioiTinh": "Nữ",
+  "SDT": "0938571917",
+  "MaPH": "P207"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c39"
+  },
+  "MaKH": "KH45",
+  "TenKH": "Phan Tố Như",
+  "NgaySinh": {
+    "$date": "2001-06-11T00:00:00Z"
+  },
+  "CMND": "219582918",
+  "QueQuan": "Đồng Tháp",
+  "GioiTinh": "Nữ",
+  "SDT": "0937915263",
+  "MaPH": "P207"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c3a"
+  },
+  "MaKH": "KH46",
+  "TenKH": "Nguyễn Thị Minh Thừa",
+  "NgaySinh": {
+    "$date": "1980-06-01T00:00:00Z"
+  },
+  "CMND": "593810482",
+  "QueQuan": "Đồng Tháp",
+  "GioiTinh": "Nữ",
+  "SDT": "0387129787",
+  "MaPH": "P208"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c3b"
+  },
+  "MaKH": "KH47",
+  "TenKH": "Ngụy Anh Lạc",
+  "NgaySinh": {
+    "$date": "1995-07-12T00:00:00Z"
+  },
+  "CMND": "219583873",
+  "QueQuan": "Hải Phòng",
+  "GioiTinh": "Nữ",
+  "SDT": "0391847556",
+  "MaPH": "P208"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c3c"
+  },
+  "MaKH": "KH48",
+  "TenKH": "Hồ Tấn Đạt",
+  "NgaySinh": {
+    "$date": "1998-11-13T00:00:00Z"
+  },
+  "CMND": "219583569",
+  "QueQuan": "Bình Định",
+  "GioiTinh": "Nam",
+  "SDT": "0397112114",
+  "MaPH": "P208"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c3d"
+  },
+  "MaKH": "KH49",
+  "TenKH": "Thái Hữu Nhân",
+  "NgaySinh": {
+    "$date": "1997-10-20T00:00:00Z"
+  },
+  "CMND": "219529673",
+  "QueQuan": "Bến Tre",
+  "GioiTinh": "Nam",
+  "SDT": "036182775",
+  "MaPH": "P301"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c3e"
+  },
+  "MaKH": "KH50",
+  "TenKH": "Thái Khắc Nam",
+  "NgaySinh": {
+    "$date": "1998-12-31T00:00:00Z"
+  },
+  "CMND": "195738261",
+  "QueQuan": "Cà Mau",
+  "GioiTinh": "Nam",
+  "SDT": "0397882515",
+  "MaPH": "P301"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c3f"
+  },
+  "MaKH": "KH51",
+  "TenKH": "Phùng Quang Huy",
+  "NgaySinh": {
+    "$date": "1995-09-06T00:00:00Z"
+  },
+  "CMND": "213819274",
+  "QueQuan": "Bình Thuận",
+  "GioiTinh": "Nam",
+  "SDT": "0939118365",
+  "MaPH": "P301"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c40"
+  },
+  "MaKH": "KH52",
+  "TenKH": "Lê Quang Khải",
+  "NgaySinh": {
+    "$date": "1998-07-29T00:00:00Z"
+  },
+  "CMND": "195820315",
+  "QueQuan": "ĐakLak",
+  "GioiTinh": "Nam",
+  "SDT": "0933445661",
+  "MaPH": "P301"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c41"
+  },
+  "MaKH": "KH53",
+  "TenKH": "Nguyễn Đăng Khoa",
+  "NgaySinh": {
+    "$date": "1998-10-12T00:00:00Z"
+  },
+  "CMND": "194857438",
+  "QueQuan": "Đak Nông",
+  "GioiTinh": "Nam",
+  "SDT": "0342567119",
+  "MaPH": "P302"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c42"
+  },
+  "MaKH": "KH54",
+  "TenKH": "Nguyễn Vũ Linh",
+  "NgaySinh": {
+    "$date": "1998-10-01T00:00:00Z"
+  },
+  "CMND": "219583333",
+  "QueQuan": "Bình Định",
+  "GioiTinh": "Nam",
+  "SDT": "0391286726",
+  "MaPH": "P302"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c43"
+  },
+  "MaKH": "KH55",
+  "TenKH": "Lê Anh Quân",
+  "NgaySinh": {
+    "$date": "1999-03-08T00:00:00Z"
+  },
+  "CMND": "123958374",
+  "QueQuan": "Gia Lai",
+  "GioiTinh": "Nam",
+  "SDT": "0937818181",
+  "MaPH": "P302"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c44"
+  },
+  "MaKH": "KH56",
+  "TenKH": "Phạm Trần Lưu Ly",
+  "NgaySinh": {
+    "$date": "1999-03-22T00:00:00Z"
+  },
+  "CMND": "193848492",
+  "QueQuan": "Quảng Ngãi",
+  "GioiTinh": "Nữ",
+  "SDT": "0936228354",
+  "MaPH": "P303"
+},{
+  "_id": {
+    "$oid": "5f019de9f1fcc10a6c364c45"
+  },
+  "MaKH": "KH57",
+  "TenKH": "Lê Thị Kiều Diễm",
+  "NgaySinh": {
+    "$date": "1999-10-16T00:00:00Z"
+  },
+  "CMND": "123454326",
+  "QueQuan": "Bình Định",
+  "GioiTinh": "Nữ",
+  "SDT": "0912836338",
+  "MaPH": "P303"
+},{
+  "_id": {
+    "$oid": "5f0ddd2fb0b5933184958e1b"
+  },
+  "MaKH": "KH58",
+  "TenKH": "Lê Thị Kiều Diễm",
+  "NgaySinh": {
+    "$date": "1999-10-16T00:00:00Z"
+  },
+  "CMND": "123454326",
+  "QueQuan": "Bình Định",
+  "GioiTinh": "Nữ",
+  "SDT": [
+    "0823742210",
+    "012345678",
+    "0823742210",
+    "09988384556",
+    "092384457433",
+    "023428592"
+  ],
+  "MaPH": "P303"
+},{
+  "_id": {
+    "$oid": "5f2184b6d8a5aa5074fb3bcd"
+  },
+  "MaKH": "KH001",
+  "TenKH": "Đạt"
+}]

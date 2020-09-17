@@ -1,0 +1,5 @@
+_id,MaAD,HoTen,TenDN,MatKhau,GioiTinh,NgaySinh,SDT,Email,MaQ
+5f019b80f1fcc10a6c364bd3,AD01,Trần Thanh Cảnh,canh64,canh123,Nữ,1999-04-06T00:00:00.000Z,0329564744,thanhcanhtran64@gmail.com,true
+5f019b80f1fcc10a6c364bd4,AD02,Nguyễn Thành Đạt,dat21,dat123,Nam,1999-06-21T00:00:00.000Z,0329564744,nguyenthanhdat21061999@gmail.com,2
+5f019b80f1fcc10a6c364bd5,AD03,Phạm Nguyễn Tuệ Mẫn,man31,man123,Nữ,1999-12-31T00:00:00.000Z,0397835202,tuephamman@gmail.com,2
+5f019b80f1fcc10a6c364bd6,AD04,Trần Thanh Cảnh,canh,canh123,Nữ,1999-04-06T00:00:00.000Z,0329564744,thanhcanhtran64@gmail.com,true
